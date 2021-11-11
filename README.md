@@ -64,7 +64,7 @@ related issues in commonly encountered WebSockets server implementations.
 
 ### 2021
 
-- OWASP Global AppSec US 2021 - Erik Elbieh - We’re not in HTTP anymore: Investigating WebSocket Server Security [Paper](https://github.com/PalindromeLabs/STEWS/blob/main/paper.pdf) (video coming soon)
+- OWASP Global AppSec US 2021 - Erik Elbieh - We’re not in HTTP anymore: Investigating WebSocket Server Security [Tool](https://github.com/PalindromeLabs/STEWS) [Paper](https://github.com/PalindromeLabs/STEWS/blob/main/paper.pdf) (video coming soon)
 
 
 ------
@@ -104,6 +104,9 @@ related issues in commonly encountered WebSockets server implementations.
 ------
 
 ## <a name="websocket_security_tools"></a>WebSocket Security Tools
+
+### Discovery, Fingerprinting, Vulnerability Detection
+- STEWS [GitHub](https://github.com/PalindromeLabs/STEWS)
 
 ### Fuzzing
 - websocket-fuzzer [GitHub](https://github.com/andresriancho/websocket-fuzzer)
