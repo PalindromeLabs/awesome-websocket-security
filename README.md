@@ -64,7 +64,7 @@ related issues in commonly encountered WebSockets server implementations.
 
 ### 2021
 
-- OWASP Global AppSec US 2021 - Erik Elbieh - We’re not in HTTP anymore: Investigating WebSocket Server Security [Paper](https://github.com/PalindromeLabs/STEWS/paper.pdf) (video coming soon)
+- OWASP Global AppSec US 2021 - Erik Elbieh - We’re not in HTTP anymore: Investigating WebSocket Server Security [Paper](https://github.com/PalindromeLabs/STEWS/blob/main/paper.pdf) (video coming soon)
 
 
 ------
